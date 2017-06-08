@@ -6,6 +6,3 @@ line4 person2
 Anne
 <<<<<<< HEAD
 Anne2
-=======
-Ben2
->>>>>>> 27ac18bb1c07fb27ef75209e3da79df7e9f855e3
